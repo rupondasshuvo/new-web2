@@ -8,3 +8,19 @@
       position: relative;
       
 }
+#head{
+      text-decoration:none;
+      text-align: center;
+      color:rgb(175, 53, 0);
+      font-size: 40px;
+      font-weight: 900px;
+      font-family:'Courier New', Courier, monospace;
+      background-image: linear-gradient(180deg, rgb(236, 213, 213), white);
+      width: 600px;
+      height: 30px;
+      border-radius: 15px;
+      margin-left: 400px;
+      margin-top: 100px;
+
+
+}
