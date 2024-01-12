@@ -36,3 +36,14 @@
       margin-top: 150px;
      
 }
+.text2{
+      color: rgb(2, 65, 120);
+      font-size: 30px;
+      background-image: linear-gradient(rgb(245, 225, 225), rgba(249, 224, 224, 0.957), rgb(255, 255, 255));
+      text-align: center;
+      margin: 70px;
+      padding: 70px;
+      padding-bottom: 100px;
+      border-radius: 15px;
+      margin-top: 150px;
+}
