@@ -66,10 +66,10 @@
       }
 
       .vedi{
-      height: 450px;
-      width:650px;
-      border: 15px solid rgb(230, 168, 178);
-      border-radius: 8px;
+      height: 400px;
+      width:600px;
+      border: 18px solid rgb(230, 168, 178);
+      border-radius: 12px;
       box-shadow: 10px 10px 10px;
       margin-left: 400px;
       margin-bottom: 90px;
