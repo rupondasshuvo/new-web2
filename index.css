@@ -23,7 +23,8 @@
       margin-top: 100px;
 
 
-}.lovetalk{
+}
+.lovetalk{
       text-align: center;
       font-size: 20px;
 }
@@ -47,3 +48,19 @@
       border-radius: 15px;
       margin-top: 150px;
 }
+.img2{
+      display: flex;
+}
+.love:hover{
+      border: 5px solid rgb(230, 14, 14);
+}
+ .love{
+            height: 600px;
+            width: 90%;
+        
+            border-radius: 10px;
+            box-shadow: 10px 10px 10px;
+        margin: 35px;
+            margin-top:2px;
+            text-align: center;
+      }
