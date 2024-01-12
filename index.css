@@ -1,0 +1,10 @@
+.birth{
+    
+    
+      background-image: url("./images/cover.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 500px;
+      position: relative;
+      
+}
